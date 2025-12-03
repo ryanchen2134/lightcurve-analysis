@@ -1,0 +1,46 @@
+# Region file format: DS9 version 4.1
+global color=green dashlist=8 3 width=1 font="helvetica 10 normal roman" select=1 highlite=1 dash=0 fixed=0 edit=1 move=1 delete=1 include=1 source=1
+physical
+point(996.24058,171.60192) # point=circle
+point(1197.3737,160.3934) # point=circle
+point(629.37199,382.39518) # point=circle
+point(469.44268,365.72641) # point=circle
+point(921.26458,326.5543) # point=circle
+point(573.3029,757.36505) # point=circle
+point(595.68908,762.07375) # point=circle
+point(245.65787,820.38775) # point=circle
+point(90.600038,884.97012) # point=circle
+point(386.97887,848.10575) # point=circle
+point(237.9115,1211.6214) # point=circle
+point(32.814276,1292.0456) # point=circle
+point(1801.5586,434.95821) # point=circle
+point(1979.7109,634.20875) # point=circle
+point(1879.8382,717.4543) # point=circle
+point(1593.837,756.71134) # point=circle
+point(1778.5775,801.6027) # point=circle
+point(1770.54,1121.5047) # point=circle
+point(843.77819,699.1679) # point=circle
+point(1025.9583,909.96426) # point=circle
+point(1154.1995,1262.8956) # point=circle
+point(1098.0158,1339.4207) # point=circle
+point(1114.2207,1543.5844) # point=circle
+point(931.82436,1502.1872) # point=circle
+point(1256.6012,1720.6556) # point=circle
+point(2294.5254,1185.5086) # point=circle
+point(2113.301,1652.6898) # point=circle
+point(1735.8056,1844.9896) # point=circle
+point(1505.992,1747.1061) # point=circle
+point(1523.6514,1920.4121) # point=circle
+point(1420.136,2210.1861) # point=circle
+point(1658.3896,2216.1746) # point=circle
+point(389.15123,1650.643) # point=circle
+point(315.73177,1802.0439) # point=circle
+point(527.72616,1824.0281) # point=circle
+point(802.33453,1980.442) # point=circle
+point(888.10369,2159.102) # point=circle
+point(824.44706,2204.3619) # point=circle
+point(722.20851,2208.6603) # point=circle
+point(1019.6677,2177.9195) # point=circle
+point(1087.726,2286.4935) # point=circle
+point(1281.2849,2233.2317) # point=circle
+point(1243.1047,2398.0433) # point=circle

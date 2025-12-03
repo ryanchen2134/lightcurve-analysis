@@ -1,0 +1,46 @@
+# Region file format: DS9 version 4.1
+global color=green dashlist=8 3 width=1 font="helvetica 10 normal roman" select=1 highlite=1 dash=0 fixed=0 edit=1 move=1 delete=1 include=1 source=1
+physical
+point(994.47798,135.22334) # point=circle
+point(1195.9547,123.73753) # point=circle
+point(627.23143,347.05619) # point=circle
+point(467.37578,329.91495) # point=circle
+point(920.29861,290.71997) # point=circle
+point(571.99239,722.11432) # point=circle
+point(594.66345,725.94352) # point=circle
+point(244.88254,784.53988) # point=circle
+point(89.746545,850.04846) # point=circle
+point(386.46947,812.93413) # point=circle
+point(237.52118,1176.2636) # point=circle
+point(32.938706,1256.6963) # point=circle
+point(1800.3521,398.46346) # point=circle
+point(1979.2802,596.86855) # point=circle
+point(1880.2513,680.37336) # point=circle
+point(1594.1161,720.23745) # point=circle
+point(1778.103,764.68784) # point=circle
+point(1771.1049,1084.7309) # point=circle
+point(843.10384,663.60111) # point=circle
+point(1025.7988,874.48413) # point=circle
+point(1154.0983,1226.6204) # point=circle
+point(1098.0032,1303.835) # point=circle
+point(1115.2382,1507.99) # point=circle
+point(932.64212,1466.5435) # point=circle
+point(1257.4509,1684.801) # point=circle
+point(2294.437,1147.6559) # point=circle
+point(2114.425,1615.1692) # point=circle
+point(1738.0097,1808.8766) # point=circle
+point(1507.6397,1710.7384) # point=circle
+point(1524.8095,1883.8212) # point=circle
+point(1421.3353,2174.0477) # point=circle
+point(1661.2761,2179.5225) # point=circle
+point(390.1304,1615.1467) # point=circle
+point(317.70657,1767.0149) # point=circle
+point(529.22492,1789.1787) # point=circle
+point(803.23749,1945.4059) # point=circle
+point(889.80809,2123.1173) # point=circle
+point(825.938,2169.2386) # point=circle
+point(724.17792,2173.3042) # point=circle
+point(1021.7769,2142.2008) # point=circle
+point(1090.2616,2250.8176) # point=circle
+point(1283.5734,2197.2573) # point=circle
+point(1245.3779,2364.4202) # point=circle

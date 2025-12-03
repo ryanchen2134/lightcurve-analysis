@@ -1,0 +1,47 @@
+# Region file format: DS9 version 4.1
+global color=green dashlist=8 3 width=1 font="helvetica 10 normal roman" select=1 highlite=1 dash=0 fixed=0 edit=1 move=1 delete=1 include=1 source=1
+physical
+point(1041.3696,121.01139) # point=circle
+point(1242.6932,110.17439) # point=circle
+point(672.84304,332.3334) # point=circle
+point(512.62282,315.58676) # point=circle
+point(966.65693,277.05029) # point=circle
+point(617.50085,708.29739) # point=circle
+point(639.93817,712.51385) # point=circle
+point(289.27972,770.66246) # point=circle
+point(133.67503,836.08004) # point=circle
+point(430.72608,798.91764) # point=circle
+point(280.80494,1163.2901) # point=circle
+point(76.380892,1243.5811) # point=circle
+point(1847.5248,385.18403) # point=circle
+point(2026.3961,584.79933) # point=circle
+point(1926.5241,667.68051) # point=circle
+point(1640.1389,707.46872) # point=circle
+point(1825.1595,753.14351) # point=circle
+point(1816.9017,1072.6058) # point=circle
+point(888.71003,649.99423) # point=circle
+point(1070.7724,860.92536) # point=circle
+point(1199.1261,1213.9418) # point=circle
+point(1143.4422,1290.8109) # point=circle
+point(1159.9062,1496.0689) # point=circle
+point(977.19883,1454.1012) # point=circle
+point(1302.358,1673.3139) # point=circle
+point(2341.0547,1136.0056) # point=circle
+point(2160.9589,1604.6502) # point=circle
+point(1783.0196,1797.8336) # point=circle
+point(1551.8056,1698.6688) # point=circle
+point(1569.7691,1872.7961) # point=circle
+point(1466.0179,2163.0857) # point=circle
+point(1705.7491,2169.5826) # point=circle
+point(433.92773,1602.6937) # point=circle
+point(360.08866,1754.5107) # point=circle
+point(572.58836,1776.7803) # point=circle
+point(846.46998,1933.0953) # point=circle
+point(932.87604,2111.9865) # point=circle
+point(869.54053,2157.6206) # point=circle
+point(767.80036,2161.27) # point=circle
+point(1065.1767,2130.6946) # point=circle
+point(1133.5255,2239.7767) # point=circle
+point(746.60583,2309.1504) # point=circle
+point(1327.1108,2186.3881) # point=circle
+point(1288.6621,2354.0891) # point=circle

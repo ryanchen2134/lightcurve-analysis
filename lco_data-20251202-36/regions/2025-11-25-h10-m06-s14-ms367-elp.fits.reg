@@ -1,0 +1,46 @@
+# Region file format: DS9 version 4.1
+global color=green dashlist=8 3 width=1 font="helvetica 10 normal roman" select=1 highlite=1 dash=0 fixed=0 edit=1 move=1 delete=1 include=1 source=1
+physical
+point(970.31967,157.56487) # point=circle
+point(1171.2614,146.1883) # point=circle
+point(602.0793,369.5281) # point=circle
+point(441.31129,352.65723) # point=circle
+point(895.11689,313.24085) # point=circle
+point(546.11519,745.05822) # point=circle
+point(568.90254,749.65152) # point=circle
+point(218.55415,807.23112) # point=circle
+point(62.837576,873.24518) # point=circle
+point(360.07878,835.47666) # point=circle
+point(210.15374,1199.4891) # point=circle
+point(6.082002,1279.5179) # point=circle
+point(1776.347,421.57197) # point=circle
+point(1954.8215,620.25289) # point=circle
+point(1856.0755,703.80923) # point=circle
+point(1569.1985,743.89236) # point=circle
+point(1753.9495,788.80227) # point=circle
+point(1746.6743,1108.9216) # point=circle
+point(818.08572,686.47388) # point=circle
+point(1000.1723,897.91468) # point=circle
+point(1128.8836,1250.4007) # point=circle
+point(1072.2961,1327.6857) # point=circle
+point(1089.5389,1532.5005) # point=circle
+point(906.68608,1490.4764) # point=circle
+point(1231.4926,1709.0195) # point=circle
+point(2270.3367,1172.1369) # point=circle
+point(2089.5975,1640.2385) # point=circle
+point(1712.2803,1833.486) # point=circle
+point(1481.5327,1734.5592) # point=circle
+point(1499.5048,1909.0146) # point=circle
+point(1395.5966,2199.0527) # point=circle
+point(1634.7742,2205.0832) # point=circle
+point(363.13929,1639.3448) # point=circle
+point(289.87336,1790.5087) # point=circle
+point(501.73815,1813.7358) # point=circle
+point(776.80438,1970.5355) # point=circle
+point(862.31031,2148.5313) # point=circle
+point(799.0405,2194.3053) # point=circle
+point(697.07347,2197.7268) # point=circle
+point(994.55389,2166.6352) # point=circle
+point(1063.3552,2276.3961) # point=circle
+point(1256.2536,2222.6836) # point=circle
+point(1218.1337,2390.2372) # point=circle

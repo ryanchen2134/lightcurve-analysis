@@ -1,0 +1,46 @@
+# Region file format: DS9 version 4.1
+global color=green dashlist=8 3 width=1 font="helvetica 10 normal roman" select=1 highlite=1 dash=0 fixed=0 edit=1 move=1 delete=1 include=1 source=1
+physical
+point(1032.0102,145.77423) # point=circle
+point(1233.6145,135.29954) # point=circle
+point(664.15998,357.66168) # point=circle
+point(503.41289,340.90705) # point=circle
+point(957.49055,302.24556) # point=circle
+point(607.9654,733.03951) # point=circle
+point(630.485,737.71622) # point=circle
+point(280.70621,795.86619) # point=circle
+point(124.75007,861.90697) # point=circle
+point(421.87401,824.50206) # point=circle
+point(272.70883,1188.2063) # point=circle
+point(67.101913,1268.1338) # point=circle
+point(1838.6843,410.8774) # point=circle
+point(2017.3937,609.58857) # point=circle
+point(1918.015,692.51774) # point=circle
+point(1631.5569,733.21897) # point=circle
+point(1815.8763,777.57501) # point=circle
+point(1808.165,1097.9762) # point=circle
+point(879.81402,675.36589) # point=circle
+point(1061.9912,886.58689) # point=circle
+point(1190.2066,1238.9756) # point=circle
+point(1133.905,1316.2944) # point=circle
+point(1150.499,1520.4935) # point=circle
+point(968.09724,1479.5562) # point=circle
+point(1293.3635,1697.6693) # point=circle
+point(2331.6726,1162.3139) # point=circle
+point(2151.2722,1629.5318) # point=circle
+point(1773.1833,1823.0642) # point=circle
+point(1542.805,1723.776) # point=circle
+point(1560.2002,1898.4505) # point=circle
+point(1456.7087,2188.2953) # point=circle
+point(1696.1507,2194.5515) # point=circle
+point(424.7192,1627.4725) # point=circle
+point(351.31439,1779.716) # point=circle
+point(563.27657,1802.045) # point=circle
+point(837.47352,1958.4365) # point=circle
+point(924.02031,2136.7903) # point=circle
+point(859.82058,2182.4208) # point=circle
+point(758.47734,2186.1367) # point=circle
+point(1056.1005,2155.872) # point=circle
+point(1124.2928,2264.7021) # point=circle
+point(1317.9371,2212.3958) # point=circle
+point(1279.0101,2378.8592) # point=circle
